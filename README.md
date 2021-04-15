@@ -2,7 +2,7 @@
  Just a catchy blog
 
 
-# -----------------------------------------------------------------------------------------------------------
+
 # Para inicar el blog:
 1 - Iniciar Mamp
 2 - Definir el preferences -> web server -> determinar el path donde se encuentra la carpeta que descargaste
