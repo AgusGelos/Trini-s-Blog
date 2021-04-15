@@ -1,0 +1,19 @@
+
+------------------------------------------ Etapa de creación ------------------------------------
+
+Reunión 15/04/2021
+
+Agustin:
+Instalar y crear el wordpress con el tema: OStrich Blog --> Tiene linda letra.
+Crear repositorio en Github con permisos a Trini.
+Como guardar los blogs, si es que se guardan. Investigación de Wordpress.
+Pensar Nombre.......
+
+
+Trini:
+Hacer 1 artículos.
+Determinar el nombre.
+Técnicas de marketing.
+
+Proxima reunión: 22/04/2021
+
